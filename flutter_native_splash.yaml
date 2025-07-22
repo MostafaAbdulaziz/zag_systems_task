@@ -1,0 +1,10 @@
+flutter_native_splash:
+  color: "#1b1b1b"
+  image: assets/images/zstore_logo.png
+  branding: assets/images/logo.png
+
+# ///////////////// ATTENTION HERE /////////////////
+  android_12:
+    color: "#1b1b1b"
+    image: assets/images/zstore_android_12_logo.png
+    #branding: assets/images/logo.png
